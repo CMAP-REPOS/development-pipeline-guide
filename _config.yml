@@ -8,6 +8,7 @@ relative_links:
   collections: true
 exclude:
   - README.md
+  - new-page-template.md
 
 # Set a path/url to a logo that will be displayed instead of the title
 logo: "/img/cmap_logo_long.svg"
