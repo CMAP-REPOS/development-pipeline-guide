@@ -11,7 +11,6 @@ nav_order: 2
 {: .no_toc .text-delta }
 
 - TOC
-
 {:toc}
 
 ## Zoom to your community
