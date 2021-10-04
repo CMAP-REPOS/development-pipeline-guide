@@ -4,7 +4,6 @@ nav_order: 2
 ---
 
 # Getting started
-
 {: .no_toc }
 
 ## Table of contents
