@@ -5,7 +5,7 @@ nav_order: 1
 
 # Development Pipeline Data Inspector Guide
 
-The Chicago Metropolitan Agency for Planning (CMAP) is currently developing an updated forecast of population and employment for northeastern Illinois through the year 2050. As part of the update, CMAP is using a new land use model called [UrbanSim](https://urbansim.com/urbansim), which simulates real estate development at the parcel level.
+The [Chicago Metropolitan Agency for Planning (CMAP)](https://www.cmap.illinois.gov/) is currently developing an updated forecast of population and employment for northeastern Illinois through the year 2050. As part of the update, CMAP is using a new land use model called [UrbanSim](https://urbansim.com/urbansim), which simulates real estate development at the parcel level.
 
 To ensure that the model’s results are as accurate as possible, one of the key input datasets is a “development pipeline” of known developments (including any that are currently planned or in progress, as well as any that have been completed since 2010). CMAP has already collected a significant amount of this information in its Northeastern Illinois Development Database, but there are undoubtedly developments that have been missed or for which our information is inaccurate or out of date.
 
