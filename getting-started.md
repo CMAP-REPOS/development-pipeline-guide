@@ -5,9 +5,18 @@ nav_order: 2
 
 # Getting started
 
-Upon opening the [Development Pipeline Data Inspector](https://cmapgis.maps.arcgis.com/apps/webappviewer/index.html?id=c5566f8d5db34d8da9c1cd839ce13d28) and closing the introductory splash screen, you will see a map of all of the municipalities and unincorporated areas in the region. No development data is displayed when zoomed out this far, so the first step is to select a specific community to zoom in to.
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+- TOC
+
+{:toc}
 
 ## Zoom to your community
+
+Upon opening the [Development Pipeline Data Inspector](https://cmapgis.maps.arcgis.com/apps/webappviewer/index.html?id=c5566f8d5db34d8da9c1cd839ce13d28) and closing the introductory splash screen, you will see a map of all of the municipalities and unincorporated areas in the region. No development data is displayed when zoomed out this far, so the first step is to select a specific community to zoom in to.
 
 When the map is first opened, the **Filter Data** panel should be visible on the right side of the window. (If it is not, click the icon that looks like a funnel in the upper-right corner.) This panel provides several options for filtering the data to limit the amount of information being displayed, but only the first one, **Zoom to a municipality**, is required. From the dropdown list, select your community. Once a selection has been made, the map will zoom in to show only that municipality and any developments within or near it.
 
