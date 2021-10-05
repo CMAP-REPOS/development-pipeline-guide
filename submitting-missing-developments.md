@@ -7,13 +7,13 @@ nav_order: 4
 
 When reviewing the development and component records that are already present in the development pipeline data, you may find that you are aware of some developments that CMAP has not accounted for. If this is the case, please submit a missing development so that we can improve the accuracy of our data and ensure our population and employment forecasts are based on the most complete information.
 
-CMAP currently only tracks developments that consume at least one acre of land *OR* consist of at least 10 residential units *OR* consist of 10,000 square feet of non-residential space. Additionally, only expansions, new construction, and renovations with a change in land use are tracked (so, for example, condo-to-apartment conversions or vice versa are *not* included).
+Given the size of the region and the amount of development occurring at any given time, CMAP only actively tracks developments that consume at least one acre of land *OR* consist of at least 10 residential units *OR* consist of 10,000 square feet of non-residential space. Additionally, only expansions, new construction, and renovations with a change in land use are tracked (so, for example, condo-to-apartment conversions or vice versa are *not* included). You are welcome to submit information about developments that do not meet these criteria, but be aware that such information might ultimately not be entered into CMAP’s database.
 
 Note: in cases where a development record exists, but it is missing a component, please [submit a correction](./submitting-corrections.html) for the existing development rather than submitting a missing development.
 
 ## How to submit a missing development
 
-For both developments and components, the process for submitting a correction is very similar. Once you have identified an error in CMAP’s data:
+Once you have identified a development that is not present in CMAP’s existing data:
 
 1. Open the **Add Correction or Missing Development** panel (by clicking the button in the upper-right corner).
    
