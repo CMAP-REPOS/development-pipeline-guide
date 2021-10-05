@@ -14,14 +14,23 @@ Please review the [data dictionary](./data-dictionary.html) to see exactly what 
 For both developments and components, the process for submitting a correction is very similar. Once you have identified an error in CMAP’s data:
 
 1. Open the **Add Correction or Missing Development** panel (by clicking the button in the upper-right corner).
+    
     ![](./img/add-correction-missing-dev-button.png)
+    
 1. On the map, click on the development polygon or component icon with the erroneous information to select it. Verify that the **Add Correction or Missing Development** panel has been populated with the information from the selected development or component – if you want to edit a component, you may need to use the arrows above the data to switch between the development and the component.
+    
     ![](./img/component-correction-select.png)
+    
 1. Every attribute of the development or component data is displayed, but these are *not editable* and are for reference only. Rather, scroll to the bottom of the list of attributes and describe any corrections in the **Corrections?** box. If there is a website URL you would like to share, please also enter that in the text box.
+    
     ![](./img/component-correction-textbox.png)
+    
 1. Optionally, please also feel free to upload an attachment with supporting information (e.g. a PDF from the developer, or a photo of the development’s current status)
+    
     ![](./img/component-correction-attachment.png)
+    
 1. Once you have filled out the **Corrections?** box (and added an attachment, if applicable), make sure to click **Save** in the lower-right corner of the panel. ***If you do not click Save, your corrections will be lost!***
+    
     ![](./img/component-correction-save.png)
 
 ## Examples of potential errors
