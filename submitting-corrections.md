@@ -39,6 +39,7 @@ Below are some examples of potential errors in the **developments** data:
 
 - Development has wrong *Development Name* or *Primary Developer*
 - Development’s *Acreage* or *Former Use* (for redevelopments) is incorrect
+- Development exists but is missing a certain component (e.g. a development consisting of an apartment building with ground-floor retail has a development record, but there is no component record for the retail portion of the development). These should be submitted as corrections to the overall development rather than as a correction to an existing component or as a missing development.
 
 Below are some examples of potential errors in the **components** data:
 
