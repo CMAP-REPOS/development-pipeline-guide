@@ -1,23 +1,23 @@
 ---
-title: Submitting corrections
+title: Submitting updates and corrections
 nav_order: 3
 ---
 
-# Submitting corrections
+# Submitting changes
 
-When reviewing the development and component records that are already present in the development pipeline data, you may notice inaccurate information. In these cases, we hope you will take the time to let us know what is wrong, so we can improve the accuracy of our data and ensure our population and employment forecasts are not based on faulty information.
+When reviewing the development and component records that are already present in the development pipeline data, you may notice out-of-date or inaccurate information. In these cases, we hope you will take the time to let us know what is wrong, so we can improve the accuracy of our data and help ensure that our population and employment forecasts are based on current and correct information.
 
 Please review the [data dictionary](./data-dictionary.html) to see exactly what information is available for developments and components.
 
-## How to submit a correction
+## How to submit a correction or update
 
-For both developments and components, the process for submitting a correction is very similar. Once you have identified an error in CMAP’s data:
+For both developments and components, the process for submitting a correction is very similar. Once you have identified a necessary change:
 
 1. Open the **Add Correction or Missing Development** panel (by clicking the button in the upper-right corner).
     
     ![](./img/add-correction-missing-dev-button.png)
     
-1. On the map, click on the development polygon or component icon with the erroneous information to select it. Verify that the **Add Correction or Missing Development** panel has been populated with the information from the selected development or component – if you want to edit a component, you may need to use the arrows above the data to switch between the development and the component.
+1. On the map, click on the development polygon or component icon with the information that needs updating to select it. Verify that the **Add Correction or Missing Development** panel has been populated with the information from the selected development or component – if you want to edit a component, you may need to use the arrows above the data to switch between the development and the component.
     
     ![](./img/component-correction-select.png)
     
@@ -33,7 +33,12 @@ For both developments and components, the process for submitting a correction is
     
     ![](./img/component-correction-save.png)
 
-## Examples of potential errors
+## Examples of corrections or updates
+
+Examples of updates in the **components** data:
+
+- Component’s *Known Status* is out of date (e.g. it has been completed, but is still listed as being under construction)
+- Component’s *Completed Units* is incorrect (e.g. in a new subdivision that will have 100 units upon completion, 20 are listed as completed in CMAP’s data, but in reality 40 units have already been sold and occupied)
 
 Below are some examples of potential errors in the **developments** data:
 
@@ -47,7 +52,5 @@ Below are some examples of potential errors in the **components** data:
 - A multi-component development includes a component whose *Land Use* is not actually part of the overall development (e.g. a development that, in reality, consists only of townhomes has two components in the CMAP data: one for townhomes and one for multi-family apartments)
 - Component’s *Units* (residential) or *Square Footage* (non-residential) are incorrect. (Bear in mind that *Units* and *Square Footage* are reported separately for each component of a development, so the value for one component in a multi-component development may appear significantly lower than the development’s total.)
 - The housing units in a residential component are incorrectly listed as being *Rental Units* and/or *Age-Targeted Units* (e.g. a new condo building is instead listed as a multi-family apartment building with rental units)
-- Component’s *Known Status* is out of date (e.g. it has been completed, but is still listed as being under construction)
-- Component’s *Completed Units* is incorrect (e.g. in a new subdivision that will have 100 units upon completion, 20 are listed as completed in CMAP’s data, but in reality 40 units have already been sold and occupied)
 
 The above lists are not exhaustive, but hopefully provide a sense of the types of issues to look for.
